@@ -1,0 +1,127 @@
+h1 {
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  text-decoration: overline;
+  display: block;
+  margin-left: 50px;
+}
+
+.input1 {
+  font-size: 20px;
+  text-align: center;
+  color: hsl(116, 100%, 81%);
+  background-color: rgb(150, 223, 223);
+}
+
+.q1{
+ align-items: center;
+  justify-content: center;
+  margin-left: 50px;
+
+  
+  
+}
+
+
+.section1 {
+  font-size: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 50px;
+  background-color: black;
+  color: azure;
+  
+}
+.section2 {
+  font-size: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 50px;
+  background-color: rgb(153, 236, 243);
+  color: rgb(3, 42, 42);
+  
+
+}
+
+
+.q2 {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(159, 230, 219);
+  border-radius:10px ;
+  display: inline-block;
+  font-size: 25px ;
+  box-shadow: 5px 5px 30px 10px aqua;
+  margin-top: 40px;
+  text-align: center;
+  margin-left: 50px;
+  align-items: center;
+  justify-content: center;
+  margin-left: 50px;
+  padding-bottom: 40px;
+  margin-bottom: 50px;
+  background-color: rgb(143, 143, 241);
+ 
+  
+  
+}
+body {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+ cursor: crosshair;
+  vertical-align: middle;
+  
+  
+
+}
+
+.fieldset1 {
+  height: 200px;
+  width: 400px;
+  font-size: 17px;
+  color: rgb(3, 61, 80);
+  margin-top: 20px;
+  border-style: dotted;
+  border-color: aquamarine;
+  box-shadow: 5px 5px 30px 10px aqua;
+  background-color: rgb(133, 215, 250);
+  margin-bottom: 30px;
+  
+}
+.text {
+  text-decoration: underline;
+  margin-bottom: 20px ;
+  color: indigo;
+  font-size: 20px;
+  
+}
+
+p {
+  font-size: 18px;
+  color: rgb(0, 71, 193);
+  text-decoration: underline;
+  display: inline-block;
+  
+}
+
+.check{
+  color: rgb(247, 122, 247);
+  text-decoration: none;
+  padding-left: 15px;
+}
+.img1{
+  width: 350px;
+  margin-top: 20px;
+  box-shadow: 5px 5px 30px 10px rgb(80, 3, 211);
+}
+
+.img1:hover {
+ box-shadow: 5px 5px 30px 10px aqua; 
+}
+
+.img1:active {
+  box-shadow: 5px 5px 30px 10px rgb(255, 25, 25); 
+
+}
